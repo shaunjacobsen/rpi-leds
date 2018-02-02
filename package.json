@@ -11,6 +11,7 @@
   "dependencies": {
     "8x8matrix": "0.0.1",
     "body-parser": "^1.18.2",
+    "delay": "^2.0.0",
     "express": "^4.16.2",
     "rpio": "^0.9.20",
     "sleep-async": "^1.0.1"
