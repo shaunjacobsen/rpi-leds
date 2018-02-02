@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 matrix.init(rpio);
 
-matrix.writeArray(smily);
+//matrix.writeArray(smily);
 
 app.post('/light', (req, res) => {});
 
